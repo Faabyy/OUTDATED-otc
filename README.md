@@ -1,2 +1,2 @@
-# hwid
+# otc and lua addon
 hwids
